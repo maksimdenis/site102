@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Пиксельный дизайн</title>
-        <link rel="stylesheet" href="style.CSS"/>
+        <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
         <header>
